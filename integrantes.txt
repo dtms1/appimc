@@ -1,0 +1,3 @@
+Professor, alteramos o tema do projeto pois já havia um parecido. Resolvemos fazer uma calculadora de imc.
+
+Integrantes: Daniella Marques, Gabryella de Alencar e João Victor.
